@@ -11,16 +11,17 @@ Data Exploration, Data Model and Interpretation
 
 #Task 03 - Data Insights and Presentation
 For the third task, I designed visualizations using PowerBI to drive insights gained from the data analysis. The visualization consists of  two dashboards (Transaction Analysis and Customer Demographics), the last pane on the dashboard is the recommendations gotten from the insights.
-   #Objectives
-   •	What are the trends in the underlying data?
-   •	Which customer segment has the highest customer value?
-   •	What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
-   •	What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
-   Specifically, the presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market 
-   segment to reach out to. 
+  
+   
+#Objectives
+•	What are the trends in the underlying data?
+•	Which customer segment has the highest customer value?
+•	What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+•	What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+Specifically, the presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market 
+segment to reach out to. 
 
-
-   #Dashboard displays
+#Dashboard displays
 
 
    #Recommendation

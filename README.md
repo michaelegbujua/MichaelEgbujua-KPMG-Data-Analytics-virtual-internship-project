@@ -22,6 +22,11 @@ Specifically, the presentation should specify who Sprocket Central Pty Ltd’s m
 segment to reach out to. 
 
 #Dashboard displays
+1. Profit and Transaction Dashboard
+![profit_and_transaction](https://github.com/michaelegbujua/MichaelEgbujua-KPMG-Data-Analytics-virtual-internship-project/assets/40715460/eacd309c-5062-4f2f-a8d0-8820ba5c0bae)
 
+2. Customer Demographics Dashboard
+![Customer_demographics](https://github.com/michaelegbujua/MichaelEgbujua-KPMG-Data-Analytics-virtual-internship-project/assets/40715460/e7e2acfb-65d4-4d19-8173-d53f159f282c)
 
-   #Recommendation
+3. Recomendations
+![Recom_Dash](https://github.com/michaelegbujua/MichaelEgbujua-KPMG-Data-Analytics-virtual-internship-project/assets/40715460/f50374bc-ce41-4381-93c7-ac34a9e14003)
